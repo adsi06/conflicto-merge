@@ -10,7 +10,11 @@
     <name>ejercicio1</name>
     <description>Proyecto "de ejemplo"</description>
     <url>http://adsi.itam.com.mx</url>
-    <inceptionYear>3018</inceptionYear>
+<<<<<<< HEAD
+    <inceptionYear>1018</inceptionYear>
+=======
+    <inceptionYear>1018</inceptionYear>
+>>>>>>> 0a96223888f8639b27a046a435a86e0d26259bc9
 
 
     <repositories>
